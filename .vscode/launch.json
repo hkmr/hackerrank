@@ -1,0 +1,150 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LeftRotation",
+            "request": "launch",
+            "mainClass": "LeftRotation",
+            "projectName": "Hackerrank_d220e270"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CountingNumbers",
+            "request": "launch",
+            "mainClass": "CountingNumbers",
+            "projectName": "Hackerrank_d220e270"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Permutation",
+            "request": "launch",
+            "mainClass": "CrackingTheCodingInteview.Permutation",
+            "projectName": "Hackerrank_d220e270"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Leet258",
+            "request": "launch",
+            "mainClass": "Leet258",
+            "projectName": "Hackerrank_d220e270"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Birthday",
+            "request": "launch",
+            "mainClass": "Birthday",
+            "projectName": "Hackerrank_d220e270"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ICPCTeam",
+            "request": "launch",
+            "mainClass": "ICPCTeam",
+            "projectName": "Hackerrank_d220e270"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BetweenTwoSets",
+            "request": "launch",
+            "mainClass": "BetweenTwoSets",
+            "projectName": "Hackerrank_d220e270"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ClimbingLeaderBoard",
+            "request": "launch",
+            "mainClass": "ClimbingLeaderBoard",
+            "projectName": "Hackerrank_d220e270"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Leet66",
+            "request": "launch",
+            "mainClass": "Leet66"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Leet21",
+            "request": "launch",
+            "mainClass": "Leet21"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Leet7",
+            "request": "launch",
+            "mainClass": "Leet7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CircularRotation",
+            "request": "launch",
+            "mainClass": "CircularRotation"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FairShare",
+            "request": "launch",
+            "mainClass": "FairShare"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Bet",
+            "request": "launch",
+            "mainClass": "Bet"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Leet1323",
+            "request": "launch",
+            "mainClass": "Leet1323"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Leet13",
+            "request": "launch",
+            "mainClass": "Leet13"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Design",
+            "request": "launch",
+            "mainClass": "Design"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Leet26",
+            "request": "launch",
+            "mainClass": "Leet26"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Leet83",
+            "request": "launch",
+            "mainClass": "Leet83"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - validParentheses",
+            "request": "launch",
+            "mainClass": "validParentheses"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Median",
+            "request": "launch",
+            "mainClass": "Median"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AddTwoNumbers",
+            "request": "launch",
+            "mainClass": "AddTwoNumbers"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LongestSubstring",
+            "request": "launch",
+            "mainClass": "LongestSubstring"
+        }
+    ]
+}
